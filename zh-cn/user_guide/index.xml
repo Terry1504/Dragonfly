@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>用户指南 on Dragonfly 文档</title>
+    <link>https://alibaba.github.io/Dragonfly/zh-cn/user_guide/</link>
+    <description>Recent content in 用户指南 on Dragonfly 文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://alibaba.github.io/Dragonfly/zh-cn/user_guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>安装服务端</title>
+      <link>https://alibaba.github.io/Dragonfly/zh-cn/user_guide/install_server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/zh-cn/user_guide/install_server/</guid>
+      <description>&lt;p&gt;本文介绍了如何安装 Dragonfly 服务端。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>安装客户端</title>
+      <link>https://alibaba.github.io/Dragonfly/zh-cn/user_guide/install_client/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/zh-cn/user_guide/install_client/</guid>
+      <description>&lt;p&gt;This topic explains how to install the client.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>分发文件</title>
+      <link>https://alibaba.github.io/Dragonfly/zh-cn/user_guide/download_files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/zh-cn/user_guide/download_files/</guid>
+      <description>&lt;p&gt;This topic explains how to distribute files with Dragonfly.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>超级节点的配置</title>
+      <link>https://alibaba.github.io/Dragonfly/zh-cn/user_guide/supernode_configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/zh-cn/user_guide/supernode_configuration/</guid>
+      <description>&lt;p&gt;This topic explains the configuration of SuperNode.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
